@@ -1,0 +1,52 @@
+body{
+    text-align: center;
+    background:url("green.avif"); 
+   
+    font-size: 25px;
+    font-weight: bold;
+    color: red;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 5px solid black;
+    flex-direction: column;
+    margin: auto;
+    width: 400px;
+  border-radius: 5px;
+    background-color:antiquewhite;
+    border: 5px solid gold;
+    
+    
+}
+#pan{
+    margin-bottom: 3px;
+}
+#sum{
+    margin-top: 5px;
+}
+h1{
+    color: goldenrod;
+}
+#san{
+    font-style: italic;
+    margin-bottom: 5px;
+}
+button{
+    width:150px;
+    background: goldenrod;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+    color: aqua;
+    font-size: 20px;
+    margin-bottom: 8px;
+    
+}
+button:hover{
+    background: burlywood;
+}
